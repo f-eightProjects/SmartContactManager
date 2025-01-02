@@ -25,6 +25,7 @@ Smart Contact Manager is a web application designed to manage contacts efficient
 - Java
 - Spring Boot
 - Hibernate
+- JPA
 
 ### Database:
 - MySQL
