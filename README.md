@@ -29,6 +29,7 @@ Smart Contact Manager is a web application designed to manage contacts efficient
 
 ### Database:
 - MySQL
+- SQL
 
 ### Frontend:
 - HTML
@@ -46,7 +47,7 @@ Smart Contact Manager is a web application designed to manage contacts efficient
 
 ### Prerequisites:
 - Java 11 or later
-- MySQL
+- MySQL Workbench
 - Maven
 - A Cloudinary account
 - Git
@@ -57,7 +58,7 @@ Smart Contact Manager is a web application designed to manage contacts efficient
    ```bash
    git clone https://github.com/your-username/Smart-Contact-Manager.git
    cd Smart-Contact-Manager
-2. Configure MySQL :
+2. Configure MySQL Workbench :
    - Create a database named smart_contact_manager or scm or scm2.0 or anything f your choice.
    - Update `application.properties` with your MySQL credentials.
   
